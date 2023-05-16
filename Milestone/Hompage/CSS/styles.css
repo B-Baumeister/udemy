@@ -1,0 +1,19 @@
+h1 {
+    font-family: Arbutus Slab, serif;
+    color: #DB9A8F;
+}
+
+p {  font-family: 'Poppins', sans-serif;
+    color: #DB9A8F;
+}
+
+body {
+    background-color:#814256 ;
+}
+
+#title {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+}
